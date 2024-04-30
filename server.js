@@ -5,7 +5,6 @@ import userRoute from "./routes/user.route.js";
 import messageRoute from "./routes/message.route.js";
 import authRoute from "./routes/auth.route.js";
 import cookieParser from "cookie-parser";
-import cors from "cors";
 
 const app = express();
 
